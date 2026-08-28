@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://krishananta-portfolio.pages.dev/sitemap.xml
